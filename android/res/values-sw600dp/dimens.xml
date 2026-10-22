@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 横屏 / 平板：内容不要拉满整屏，否则输入框会长到可笑 -->
+    <dimen name="page_margin">56dp</dimen>
+    <dimen name="log_text_size">13sp</dimen>
+</resources>

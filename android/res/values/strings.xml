@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TCL 推送</string>
+    <string name="subtitle">走电视自带的多屏互动通道安装 APK</string>
+    <string name="pick_hint">点此选择 APK</string>
+    <string name="no_file">尚未选择文件</string>
+    <string name="ip_label">电视 IP</string>
+    <string name="ip_hint">例如 192.168.31.135</string>
+    <string name="remember">保存为默认地址</string>
+    <string name="test">测试</string>
+    <string name="log_label">运行日志</string>
+    <string name="push">推送到电视</string>
+    <string name="stop">停止</string>
+    <string name="striking">推送中…</string>
+</resources>
